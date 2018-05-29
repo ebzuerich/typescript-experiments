@@ -1,3 +1,3 @@
-const color = 'Rot'
+const color = 'Rot';
 
 console.log(`Ich sehe ${color}`);
